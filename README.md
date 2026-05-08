@@ -47,8 +47,6 @@ The instructor's lab test was a worked example I'm proud of: a structure variabl
 
 For the engrave / scan exercises in SIM655, KUKA motion paths were generated from NX MCD models and verified in simulation before running on the physical robot. The Romer Absolute Arm was used to scan a target plate (the KORE plate or a custom workpiece) so the robot's tool transform could be calibrated to sub-millimeter accuracy.
 
-![KUKA stylus on KORE Education plate](assets/kuka-stylus-on-kore-plate.jpeg)
-*KUKA arm with custom stylus tooling, approaching the KORE Education plate for path-following*
 
 ![KORE Education plate](assets/kuka-kore-education-plate.jpg)
 *KUKA KORE Education plate — official training fixture with calibration features and reference geometry*
