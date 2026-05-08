@@ -87,19 +87,4 @@ For the engrave / scan exercises in SIM655, KUKA motion paths were generated fro
 
 ---
 
-## Repo contents
-
-```
-.
-├── README.md
-├── krl-programs/         # KRL source files (.src / .dat) from ROB555 + ROB655
-├── workvisual/           # WorkVisual project — I/O, safety config, tools/bases
-├── plc-handshake/        # PLC side of the four-bit handshake
-├── nx-mcd/               # Twin models referenced from SIM655
-├── lab-docs/             # ROB655 lab test instructions, motion notes
-└── assets/
-```
-
----
-
 📫 **Harpreet Singh** — [harpreetsingh.cloud](https://harpreetsingh.cloud) · [GitHub](https://github.com/harpreetsingh52004)
